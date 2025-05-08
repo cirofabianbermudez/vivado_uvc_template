@@ -2,6 +2,7 @@
 work/
 
 # Files
+Makefile
 *.o
 *.txt
 *.pdf
